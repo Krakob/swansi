@@ -12,14 +12,18 @@ Edit `swansi.klc` with [Microsoft Keyboard Layout Creator](https://msdn.microsof
 
 # Layout
 **Base layer:**
+
 ![Base layer](img/swansi.jpg)
 
 **Shift layer:**
+
 ![Shift layer](img/swansiShft.jpg)
 
 **AltGr (Ctrl + Alt) layer:**
+
 ![AltGr (Ctrl + Alt) layer](img/swansiAltGr.jpg)
 
 
 **Shift AltGr (Shift + Ctrl + Alt) layer:**
+
 ![Shift AltGr (Shift + Ctrl + Alt) layer](img/swansiShftAltGr.jpg)
